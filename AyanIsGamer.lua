@@ -1,0 +1,1 @@
+print("You're going to have a bad time","ITS ME SAND UNDERTALE")
